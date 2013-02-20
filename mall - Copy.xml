@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+
+
+<SITE>
+   <SHOPS>
+
+
+	<SHOP ID="3" UNIT="1029" CATEGORY="10,14" MALL_ENG="First Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Boots]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+	<SHOP ID="" UNIT="23" CATEGORY="10,14,21,24,25,30" MALL_ENG="Ground Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[House of Fraser Outlet]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+
+	<SHOP ID="1" UNIT="27,30" CATEGORY="10" MALL_ENG="Ground Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Starbucks Coffee]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+	
+
+	<SHOP ID="" UNIT="51" CATEGORY="11,17" MALL_ENG="Ground Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Rise]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+	<SHOP ID="14-15" UNIT="53" CATEGORY="11" MALL_ENG="Ground Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Waterstones]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+	<SHOP ID="" UNIT="1022" CATEGORY="11" MALL_ENG="First Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Waterstones]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+	
+
+	<SHOP ID="" UNIT="32" CATEGORY="12" MALL_ENG="Ground Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Card Factory]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+	<SHOP ID="K2" UNIT="1032" CATEGORY="12" MALL_ENG="First Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Carole’s Crafts]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+	<SHOP ID="36" UNIT="1038" CATEGORY="12" MALL_ENG="First Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Card Control]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+
+	<SHOP ID="13" UNIT="7" CATEGORY="13" MALL_ENG="Ground Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Sue Ryder Care]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+	<SHOP ID="4042" UNIT="22" CATEGORY="13" MALL_ENG="Ground Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[YMCA]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+	
+
+	<SHOP ID="" UNIT="1010" CATEGORY="14" MALL_ENG="First Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Trutex]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+
+	<SHOP ID="52" UNIT="1003" CATEGORY="15" MALL_ENG="First Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Sweets Galore]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+	
+
+	<SHOP ID="" UNIT="1036" CATEGORY="16" MALL_ENG="First Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[House of Fraser Outlet]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+
+	<SHOP ID="3" UNIT="44" CATEGORY="17" MALL_ENG="Ground Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Cex]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+	<SHOP ID="18" UNIT="1035" CATEGORY="17" MALL_ENG="First Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[Games Workshop]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+
+	<SHOP ID="28-32" UNIT="16" CATEGORY="17" MALL_ENG="Ground Floor" IMAGE="" OPENDATE="" TEL="">
+		<DESC_ENG><![CDATA[That’s Entertainment]]></DESC_ENG>
+		<DETAIL_ENG><![CDATA[]]></DETAIL_ENG>
+	</SHOP>
+
+
+</SHOPS>
+
+<CATEGORIES>
+	
+	<CATEGORY>
+		<ID>10</ID>
+		<CAT_ENG><![CDATA[Audio / Visual / Communications]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>11</ID>
+		<CAT_ENG><![CDATA[Cafe's]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>12</ID>
+		<CAT_ENG><![CDATA[Chemists / Health & Beauty]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>13</ID>
+		<CAT_ENG><![CDATA[Fashion]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>14</ID>
+		<CAT_ENG><![CDATA[Food Shops]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>15</ID>
+		<CAT_ENG><![CDATA[Footwear]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>16</ID>
+		<CAT_ENG><![CDATA[Furniture / Furnishings]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>17</ID>
+		<CAT_ENG><![CDATA[Jewellery / Fashion Accessories]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>18</ID>
+		<CAT_ENG><![CDATA[News / Cards / Books]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>19</ID>
+		<CAT_ENG><![CDATA[Opticians]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>20</ID>
+		<CAT_ENG><![CDATA[Specialists]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>21</ID>
+		<CAT_ENG><![CDATA[Sports]]></CAT_ENG>
+	</CATEGORY>
+	<CATEGORY>
+		<ID>22</ID>
+		<CAT_ENG><![CDATA[Variety Stores]]></CAT_ENG>
+	</CATEGORY>
+	
+</CATEGORIES>
+
+</SITE> 
